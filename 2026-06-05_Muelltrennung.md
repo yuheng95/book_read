@@ -8,66 +8,69 @@
 
 ## Teil 1 · Dialog（情景对话）
 
-**Mira** ist neu in der Stadt. Sie trifft ihren Nachbarn **Herr Brandt** im Hausflur.
+**Leon** arbeitet seit Kurzem in Deutschland. In der Mittagspause fragt er seine Kollegin **Sophia** nach der Mülltrennung.
 
-> **Mira:** Entschuldigung, Herr Brandt, dürfte ich Sie kurz etwas fragen? Ich komme mit der Mülltrennung einfach nicht klar.
+> **Leon:** Sophia, kannst du mir kurz erklären, wie das hier mit dem Müll funktioniert? Ich stehe vor den Tonnen und weiß nicht, wo ich anfangen soll.
 >
-> **Herr Brandt:** Aber natürlich, das ging mir am Anfang genauso. Worum geht es denn konkret?
+> **Sophia:** Klar! Das verwirrt am Anfang jeden. Wie viele Tonnen habt ihr bei euch zu Hause?
 >
-> **Mira:** Vor dem Haus stehen vier verschiedene Tonnen, und ich habe keine Ahnung, was wohin gehört.
+> **Leon:** Vier verschiedene Farben. Ich habe die Bananenschalen schon einmal in die blaue geworfen und mir wurde danach ganz schön was gesagt.
 >
-> **Herr Brandt:** Das ist gar nicht so kompliziert, wenn man das System einmal verstanden hat. Die blaue Tonne ist für Papier, die gelbe für Verpackungen aus Plastik und Metall.
+> **Sophia:** (lacht) Das kann ich mir vorstellen! Die blaue Tonne ist ausschließlich für Papier und Pappe. Schalen kommen in die braune Biotonne.
 >
-> **Mira:** Und der Biomüll? Ich hätte fast die Bananenschalen in den Restmüll geworfen.
+> **Leon:** Und was kommt in die gelbe?
 >
-> **Herr Brandt:** Bloß nicht! Essensreste und Schalen kommen in die braune Biotonne. Was übrig bleibt – also alles, was sich nicht trennen lässt – wandert in den grauen Restmüll.
+> **Sophia:** Alles, was verpackt ist – Plastikflaschen, Alufolie, Tetrapacks. Wichtig: Es muss ausgespült sein, sonst wird die ganze Tonne als kontaminiert abgelehnt.
 >
-> **Mira:** Und worauf muss ich beim Glas achten?
+> **Leon:** Wirklich? Das wusste ich nicht. Und was ist mit kaputtem Geschirr oder alten Klamotten?
 >
-> **Herr Brandt:** Glas bringen wir zum Container an der Ecke. Dabei wird nach Farben sortiert: Weißglas, Grünglas und Braunglas werden getrennt eingeworfen.
+> **Sophia:** Geschirr darf nicht ins Altglas, weil es einen anderen Schmelzpunkt hat. Das landet im Restmüll. Klamotten bringt man besser zum Altkleidercontainer.
 >
-> **Mira:** Wahnsinn, so genau hätte ich das nie genommen. Und was hat es mit diesem Pfand auf sich?
+> **Leon:** Und wenn ich mir wirklich unsicher bin?
 >
-> **Herr Brandt:** Auf viele Flaschen und Dosen zahlst du beim Kauf ein paar Cent extra. Wenn du das Leergut zurückbringst, bekommst du das Geld wieder. Deshalb siehst du fast nie weggeworfene Flaschen auf der Straße.
+> **Sophia:** Es gibt eine App – die heißt „Abfall-ABC". Da kannst du jeden Gegenstand eingeben und bekommst sofort angezeigt, in welche Tonne er gehört.
 >
-> **Mira:** Das ergibt Sinn. Vielen Dank, jetzt traue ich mich endlich an die Tonnen.
+> **Leon:** Praktisch! Da fragt man sich, warum das nicht in jedem Land so gemacht wird.
 >
-> **Herr Brandt:** Gern geschehen. Und keine Sorge – wenn mal etwas im falschen Behälter landet, geht die Welt auch nicht unter.
+> **Sophia:** Stimmt. Es ist Gewohnheitssache – nach ein paar Wochen machst du das ganz automatisch.
 
 ### Übersetzung 对照翻译
 
 | DE | 中文 | EN |
 |---|---|---|
-| Ich komme mit der Mülltrennung einfach nicht klar. | 我就是搞不懂垃圾分类。 | I just can't get the hang of separating the trash. |
-| Das ging mir am Anfang genauso. | 我一开始也一样。 | It was the same for me at the beginning. |
-| Was wohin gehört. | 什么该放哪里。 | What goes where. |
-| Ich hätte fast die Bananenschalen in den Restmüll geworfen. | 我差点把香蕉皮扔进了其他垃圾桶。 | I almost threw the banana peels into the general waste. |
-| Was sich nicht trennen lässt, wandert in den Restmüll. | 无法分类的东西就归入其他垃圾。 | Whatever can't be separated goes into the general waste. |
-| Was hat es mit diesem Pfand auf sich? | 这个押金是怎么回事？ | What's the deal with this deposit? |
-| Wenn du das Leergut zurückbringst, bekommst du das Geld wieder. | 你把空瓶退回去，就能拿回钱。 | When you return the empties, you get your money back. |
-| Jetzt traue ich mich endlich an die Tonnen. | 现在我终于敢去碰那些垃圾桶了。 | Now I finally dare to tackle the bins. |
-| Wenn mal etwas im falschen Behälter landet, geht die Welt auch nicht unter. | 偶尔扔错了桶，也不是世界末日。 | If something ends up in the wrong bin, it's not the end of the world. |
+| Ich stehe vor den Tonnen und weiß nicht, wo ich anfangen soll. | 我站在垃圾桶前，不知道从哪里开始。 | I'm standing in front of the bins and don't know where to start. |
+| Das verwirrt am Anfang jeden. | 这一开始会让每个人都困惑。 | That confuses everyone at the beginning. |
+| Mir wurde danach ganz schön was gesagt. | 之后我被好好说了一顿。 | I got quite a talking-to afterwards. |
+| Es muss ausgespült sein, sonst wird die Tonne als kontaminiert abgelehnt. | 必须冲洗干净，否则整桶会被视为受污染而拒收。 | It has to be rinsed out, otherwise the whole bin is rejected as contaminated. |
+| Geschirr darf nicht ins Altglas, weil es einen anderen Schmelzpunkt hat. | 陶瓷不能放进废玻璃桶，因为它的熔点不同。 | Dishes cannot go into the glass container because they have a different melting point. |
+| Da fragt man sich, warum das nicht in jedem Land so gemacht wird. | 让人不禁想，为什么不是每个国家都这样做。 | It makes you wonder why this isn't done in every country. |
+| Nach ein paar Wochen machst du das ganz automatisch. | 几周后，你会完全自动地做这件事。 | After a few weeks you do it completely automatically. |
 
 ---
 
 ## Teil 2 · Kurztext（仿播客短文）
 
-### Warum die Deutschen ihren Müll trennen
+### Mülltrennung: Eine deutsche Tugend
 
-Kaum etwas wird in Deutschland so ernst genommen wie die Mülltrennung. Was für viele Zugezogene zunächst wie eine bürokratische Schikane wirkt, hat einen ernsten Hintergrund: Rohstoffe sind knapp und teuer, und durch konsequentes Recycling lässt sich ein großer Teil davon wiederverwenden. Bereits in den 1990er Jahren wurde das sogenannte Duale System eingeführt, das die Sammlung von Verpackungen organisiert. Seitdem gehört der Gang zu den verschiedenfarbigen Tonnen für die meisten Haushalte zum Alltag.
+Wer zum ersten Mal nach Deutschland zieht, staunt oft über die vielen bunten Mülltonnen vor jedem Wohnhaus. Was zunächst wie übertriebene Bürokratie wirkt, hat seinen Ursprung in einer ernsthaften Umweltbewegung: Seit den 1980er Jahren wurde in Deutschland intensiv debattiert, wie Abfall reduziert und Rohstoffe geschont werden können.
 
-Besonders stolz sind viele Deutsche auf das Pfandsystem: Für Flaschen und Dosen wird beim Kauf ein Betrag hinterlegt, der bei der Rückgabe zurückerstattet wird. Kritiker bemängeln zwar, dass nicht jeder Müll tatsächlich recycelt und manches am Ende doch verbrannt wird. Trotzdem gilt Deutschland in Europa bis heute als Vorreiter, wenn es um Abfallwirtschaft und Wiederverwertung geht.
+Das Ergebnis ist ein System, das heute in Europa seinesgleichen sucht. Plastik, Glas, Papier und Biomüll werden getrennt gesammelt und anschließend verwertet. Besonders ausgeklügelt ist das Pfandsystem: Wer eine Pfandflasche kauft, zahlt einen kleinen Aufpreis, der beim Zurückgeben erstattet wird. So werden Millionen von Flaschen jährlich zurückgegeben statt weggeworfen.
+
+Natürlich ist das System nicht perfekt – ein Teil des gesammelten Mülls wird letztendlich doch verbrannt. Dennoch hat die konsequente Trennung dazu beigetragen, dass Deutschland zu den Ländern mit der höchsten Recyclingquote weltweit zählt.
 
 ### Übersetzung 对照翻译
 
-- **Kaum etwas wird so ernst genommen wie die Mülltrennung.**
-  几乎没有什么事像垃圾分类那样被认真对待。 / Hardly anything is taken as seriously as separating waste.
-- **Was wie eine bürokratische Schikane wirkt, hat einen ernsten Hintergrund.**
-  看似官僚刁难的事，其实有严肃的背景。 / What looks like bureaucratic harassment has a serious reason behind it.
-- **Bereits in den 1990er Jahren wurde das Duale System eingeführt.**
-  早在上世纪90年代，"双元系统"就被引入了。 / The "Dual System" was already introduced back in the 1990s.
-- **Deutschland gilt bis heute als Vorreiter bei der Wiederverwertung.**
-  在循环利用方面，德国至今被视为先驱。 / Germany is still considered a pioneer in recycling today.
+- **Was zunächst wie übertriebene Bürokratie wirkt, hat seinen Ursprung in einer ernsthaften Umweltbewegung.**
+  乍看之下像是过度的官僚主义，其实起源于一场严肃的环保运动。 / What initially seems like excessive bureaucracy has its roots in a serious environmental movement.
+
+- **Ein System, das heute in Europa seinesgleichen sucht.**
+  一个在今天的欧洲无与伦比的系统。 / A system that has no equal in Europe today.
+
+- **Wer eine Pfandflasche kauft, zahlt einen kleinen Aufpreis, der beim Zurückgeben erstattet wird.**
+  购买押金瓶的人需多付少量费用，退瓶时会退还。 / Whoever buys a deposit bottle pays a small surcharge that is refunded when returned.
+
+- **Deutschland zählt zu den Ländern mit der höchsten Recyclingquote weltweit.**
+  德国是全球回收率最高的国家之一。 / Germany is one of the countries with the highest recycling rate in the world.
 
 ---
 
@@ -79,33 +82,39 @@ Besonders stolz sind viele Deutsche auf das Pfandsystem: Für Flaschen und Dosen
 | die Tonne, -n | n. | 垃圾桶 | bin |
 | die Verpackung, -en | n. | 包装 | packaging |
 | der Biomüll | n. | 厨余/有机垃圾 | organic waste |
-| der Restmüll | n. | 其他垃圾/不可回收垃圾 | residual / general waste |
-| das Leergut | n. | 空瓶（退瓶） | empties (returnable bottles) |
+| der Restmüll | n. | 其他垃圾 | residual waste |
+| die Biotonne, -n | n. | 厨余垃圾桶 | organic waste bin |
+| das Altglas | n. | 废玻璃 | waste glass |
+| der Altkleidercontainer | n. | 旧衣回收箱 | clothes donation container |
 | das Pfand | n. | 押金 | deposit |
-| der Rohstoff, -e | n. | 原材料 | raw material |
-| die Wiederverwertung | n. | 循环利用 | recycling / reuse |
-| die Abfallwirtschaft | n. | 废物处理（行业） | waste management |
-| knapp | adj. | 稀缺的 | scarce |
+| der Aufpreis | n. | 额外费用 | surcharge |
+| die Recyclingquote | n. | 回收率 | recycling rate |
+| kontaminiert | adj. | 受污染的 | contaminated |
+| ausgeklügelt | adj. | 精心设计的 | ingenious, clever |
+| verwertet werden | v. (Passiv) | 被循环利用 | to be recycled / utilized |
 | konsequent | adj. | 一贯的、彻底的 | consistent(ly) |
-| hinterlegen | v. | 存放、缴存（押金） | to deposit / lodge |
-| zurückerstatten | v. | 退还 | to refund |
-| bemängeln | v. | 指摘、批评 | to criticize / find fault with |
-| der Vorreiter | n. | 先驱、领跑者 | pioneer / frontrunner |
 
 ---
 
 ## Redewendungen & Satzmuster（重点表达 · 值得背）
 
-1. **mit etwas (nicht) klarkommen** — 搞得定 / 搞不懂某事
-   *Ich komme mit der Mülltrennung nicht klar.*
-2. **Was hat es mit … auf sich?** — ……是怎么回事？
-   *Was hat es mit diesem Pfand auf sich?*
-3. **Bloß nicht!** — 千万别！
-4. **sich an etwas (Akk.) trauen** — 敢去做某事
-   *Jetzt traue ich mich endlich an die Tonnen.*
-5. **Kaum etwas wird so … wie …** — 几乎没什么像……那样……
-   *Kaum etwas wird so ernst genommen wie die Mülltrennung.*
-6. **zwar …, trotzdem …** — 虽然……，但还是……（让步对比）
+1. **jmdm. wird (ganz schön) was gesagt** — 被人说了一通（口语，含被责备意味）
+   *Ich habe die Schalen falsch entsorgt und mir wurde danach ganz schön was gesagt.*
+
+2. **seinesgleichen suchen** — 无与伦比、独一无二
+   *Dieses System sucht in Europa seinesgleichen.*
+
+3. **Man fragt sich, warum …** — 让人不禁想知道……
+   *Da fragt man sich, warum das nicht überall so gemacht wird.*
+
+4. **Es ist Gewohnheitssache.** — 这是习惯问题。
+   *Mülltrennung klingt kompliziert, aber es ist reine Gewohnheitssache.*
+
+5. **zu den … zählen** — 属于……之列
+   *Deutschland zählt zu den Ländern mit der höchsten Recyclingquote.*
+
+6. **dazu beitragen, dass …** — 促成……，为……做贡献
+   *Die konsequente Trennung hat dazu beigetragen, dass Deutschland Vorreiter ist.*
 
 ---
 
@@ -115,25 +124,26 @@ Besonders stolz sind viele Deutsche auf das Pfandsystem: Für Flaschen und Dosen
 
 | 时态 | 例句 | 说明 |
 |---|---|---|
-| Präsens 现在时 | Der Müll **wird** **getrennt**. | 垃圾被分类。 |
+| Präsens 现在时 | Plastik **wird** getrennt **gesammelt**. | 塑料被分开收集。 |
 | Präsens（带情态） | Glas **muss** nach Farben **sortiert werden**. | 玻璃必须按颜色分类。 |
-| Präteritum 过去时 | Das Duale System **wurde** 1990 **eingeführt**. | 双元系统于1990年被引入。 |
-| Relativsatz 关系从句 | …ein Betrag, der bei der Rückgabe **zurückerstattet wird**. | ……一笔在退还时被返还的金额。 |
+| Präteritum 过去时 | Das Pfandsystem **wurde** in den 1990er Jahren **eingeführt**. | 押金系统于90年代被引入。 |
+| Passiv mit Modalverb | Die Tonne **kann** als kontaminiert **abgelehnt werden**. | 垃圾桶可能被视为受污染而拒收。 |
 
-> 朗读时把注意力放在 **句尾的 Partizip II** 上——这是被动态最容易丢的部分。
+> 朗读时把注意力放在 **句尾的 Partizip II** 上——这是被动态最容易丢失的部分。
 
 ---
 
 ## 📌 背诵清单（Recitation Checklist）
 
-今天目标：能脱稿说出下面 6 句。背完打勾。
+今天目标：能脱稿说出下面 7 句。背完打勾。
 
-- [ ] Ich komme mit der Mülltrennung einfach nicht klar.
-- [ ] Was sich nicht trennen lässt, wandert in den grauen Restmüll.
-- [ ] Was hat es mit diesem Pfand auf sich?
-- [ ] Wenn du das Leergut zurückbringst, bekommst du das Geld wieder.
-- [ ] Kaum etwas wird in Deutschland so ernst genommen wie die Mülltrennung.
-- [ ] Deutschland gilt bis heute als Vorreiter, wenn es um Abfallwirtschaft geht.
+- [ ] Ich stehe vor den Tonnen und weiß nicht, wo ich anfangen soll.
+- [ ] Das verwirrt am Anfang jeden.
+- [ ] Es muss ausgespült sein, sonst wird die Tonne als kontaminiert abgelehnt.
+- [ ] Da fragt man sich, warum das nicht in jedem Land so gemacht wird.
+- [ ] Ein System, das in Europa seinesgleichen sucht.
+- [ ] Wer eine Pfandflasche kauft, zahlt einen kleinen Aufpreis, der beim Zurückgeben erstattet wird.
+- [ ] Deutschland zählt zu den Ländern mit der höchsten Recyclingquote weltweit.
 
 ---
 
