@@ -1,5 +1,10 @@
 # SG-Korpus — 每日德语背诵语料
 
+> 👉 **新手先看 [`使用说明.md`](使用说明.md)。** 每天同步今天的新语料：
+> ```powershell
+> git -C "C:\Users\Yuhen\Desktop\de_ex\slow-german" pull
+> ```
+
 受 [Slow German](https://slowgerman.com/) 启发的 **B2 中高级** 德语背诵材料。
 每天一篇 markdown：**情景对话 + 仿播客短文 + 中英双语词汇 + 句型 + 语法点 + 背诵清单**。
 
