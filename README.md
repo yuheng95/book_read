@@ -40,10 +40,11 @@
 |---|---|---|---|---|
 | 1 | 2026-06-05 | Mülltrennung 垃圾分类 | Passiv 被动态 | ✅ |
 | 2 | 2026-06-05 | Beim Bäcker bestellen 在面包店点单 | Konjunktiv II 虚拟语气 | ✅ |
+| 3 | 2026-06-06 | Wohnungssuche in der Großstadt 大城市租房 | Relativsätze 关系从句 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
-- [ ] Wohnungssuche in der Großstadt 大城市租房（Relativsätze 关系从句）
+- [x] Wohnungssuche in der Großstadt 大城市租房（Relativsätze 关系从句）
 - [ ] Oktoberfest & Bayerische Bräuche 啤酒节与巴伐利亚习俗（Adjektivdeklination 形容词变格）
 - [ ] Pünktlichkeit der Deutschen 德国人的守时（Vergleich 比较级/最高级）
 - [ ] Termin beim Arzt 看医生预约（indirekte Frage 间接疑问句）
