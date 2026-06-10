@@ -44,6 +44,7 @@
 | 4 | 2026-06-07 | Oktoberfest & Bayerische Bräuche 啤酒节与巴伐利亚习俗 | Adjektivdeklination 形容词变格 | ✅ |
 | 5 | 2026-06-08 | Pünktlichkeit der Deutschen 德国人的守时 | Vergleich 比较级/最高级 | ✅ |
 | 6 | 2026-06-09 | Termin beim Arzt 看医生预约 | indirekte Frage 间接疑问句 | ✅ |
+| 7 | 2026-06-10 | Brückentag & Urlaub 桥日与休假 | Futur I / Zeitangaben | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -51,7 +52,7 @@
 - [x] Oktoberfest & Bayerische Bräuche 啤酒节与巴伐利亚习俗（Adjektivdeklination 形容词变格）
 - [x] Pünktlichkeit der Deutschen 德国人的守时（Vergleich 比较级/最高级）
 - [x] Termin beim Arzt 看医生预约（indirekte Frage 间接疑问句）
-- [ ] Brückentag & Urlaub 桥日与休假（Futur / Zeitangaben）
+- [x] Brückentag & Urlaub 桥日与休假（Futur / Zeitangaben）
 - [ ] Energiewende 能源转型（Nominalstil / Passiv）
 - [ ] Sonntagsruhe 周日安静规定（Modalverben 情态动词）
 - [ ] Schwarzfahren in der U-Bahn 地铁逃票（Konjunktiv II 虚拟语气）
