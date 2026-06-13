@@ -47,6 +47,7 @@
 | 7 | 2026-06-10 | Brückentag & Urlaub 桥日与休假 | Futur I / Zeitangaben | ✅ |
 | 8 | 2026-06-11 | Energiewende 能源转型 | Nominalstil / Passiv | ✅ |
 | 9 | 2026-06-12 | Sonntagsruhe 周日安静规定 | Modalverben 情态动词 | ✅ |
+| 10 | 2026-06-13 | Schwarzfahren in der U-Bahn 地铁逃票 | Konjunktiv II 虚拟语气 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -57,7 +58,7 @@
 - [x] Brückentag & Urlaub 桥日与休假（Futur / Zeitangaben）
 - [x] Energiewende 能源转型（Nominalstil / Passiv）
 - [x] Sonntagsruhe 周日安静规定（Modalverben 情态动词）
-- [ ] Schwarzfahren in der U-Bahn 地铁逃票（Konjunktiv II 虚拟语气）
+- [x] Schwarzfahren in der U-Bahn 地铁逃票（Konjunktiv II 虚拟语气）
 - [ ] Weihnachtsmarkt 圣诞市场（Wechselpräpositionen 介词）
 - [ ] Fahrradfahren in der Stadt 城市骑行（zweiteilige Konnektoren 双联连词）
 - [ ] Deutsche Bahn und Verspätungen 德铁与晚点（Kausalangaben: weil / da / denn）
