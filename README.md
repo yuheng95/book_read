@@ -50,6 +50,7 @@
 | 10 | 2026-06-13 | Schwarzfahren in der U-Bahn 地铁逃票 | Konjunktiv II 虚拟语气 | ✅ |
 | 11 | 2026-06-14 | Weihnachtsmarkt 圣诞市场 | Wechselpräpositionen 双向介词 | ✅ |
 | 12 | 2026-06-15 | Fahrradfahren in der Stadt 城市骑行 | zweiteilige Konnektoren 双联连词 | ✅ |
+| 13 | 2026-06-16 | Deutsche Bahn und Verspätungen 德铁与晚点 | Kausalangaben: weil / da / denn | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -63,8 +64,12 @@
 - [x] Schwarzfahren in der U-Bahn 地铁逃票（Konjunktiv II 虚拟语气）
 - [x] Weihnachtsmarkt 圣诞市场（Wechselpräpositionen 介词）
 - [x] Fahrradfahren in der Stadt 城市骑行（zweiteilige Konnektoren 双联连词）
-- [ ] Deutsche Bahn und Verspätungen 德铁与晚点（Kausalangaben: weil / da / denn）
+- [x] Deutsche Bahn und Verspätungen 德铁与晚点（Kausalangaben: weil / da / denn）
 - [ ] Die Deutschen und ihr Bargeld 德国人与现金（Konzessivsätze 让步从句）
 - [ ] Digitalisierung im Alltag 日常数字化（Partizipialattribute 分词定语）
+- [ ] Recycling und Umweltbewusstsein 循环利用与环保意识（Finalsätze: um … zu / damit）
+- [ ] Das deutsche Schulsystem 德国学校体系（Passiv mit Modalverben 情态动词被动态）
+- [ ] Haushaltsplanung und Sparen 家庭预算与储蓄（Genitivattribute 第二格定语）
+- [ ] Ehrenamt in Deutschland 德国志愿服务（Konzessivsätze: obwohl / trotzdem）
 
 > 想加题目随时说，我会补进这张表。
