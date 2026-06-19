@@ -53,6 +53,7 @@
 | 13 | 2026-06-16 | Deutsche Bahn und Verspätungen 德铁与晚点 | Kausalangaben: weil / da / denn | ✅ |
 | 14 | 2026-06-17 | Die Deutschen und ihr Bargeld 德国人与现金 | Konzessivsätze 让步从句 | ✅ |
 | 15 | 2026-06-18 | Digitalisierung im Alltag 日常数字化 | Partizipialattribute 分词定语 | ✅ |
+| 16 | 2026-06-19 | Recycling und Umweltbewusstsein 循环利用与环保意识 | Finalsätze: um … zu / damit | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -69,7 +70,7 @@
 - [x] Deutsche Bahn und Verspätungen 德铁与晚点（Kausalangaben: weil / da / denn）
 - [x] Die Deutschen und ihr Bargeld 德国人与现金（Konzessivsätze 让步从句）
 - [x] Digitalisierung im Alltag 日常数字化（Partizipialattribute 分词定语）
-- [ ] Recycling und Umweltbewusstsein 循环利用与环保意识（Finalsätze: um … zu / damit）
+- [x] Recycling und Umweltbewusstsein 循环利用与环保意识（Finalsätze: um … zu / damit）
 - [ ] Das deutsche Schulsystem 德国学校体系（Passiv mit Modalverben 情态动词被动态）
 - [ ] Haushaltsplanung und Sparen 家庭预算与储蓄（Genitivattribute 第二格定语）
 - [ ] Ehrenamt in Deutschland 德国志愿服务（Konzessivsätze: obwohl / trotzdem）
