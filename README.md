@@ -57,6 +57,7 @@
 | 17 | 2026-06-20 | Das deutsche Schulsystem 德国学校体系 | Passiv mit Modalverben 情态动词被动态 | ✅ |
 | 18 | 2026-06-21 | Haushaltsplanung und Sparen 家庭预算与储蓄 | Genitivattribute 第二格定语 | ✅ |
 | 19 | 2026-06-22 | Ehrenamt in Deutschland 德国志愿服务 | Konzessivsätze: obwohl / trotzdem | ✅ |
+| 20 | 2026-06-23 | Vereinsleben in Deutschland 德国社团文化 | Funktionsverbgefüge 功能动词结构 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -77,7 +78,7 @@
 - [x] Das deutsche Schulsystem 德国学校体系（Passiv mit Modalverben 情态动词被动态）
 - [x] Haushaltsplanung und Sparen 家庭预算与储蓄（Genitivattribute 第二格定语）
 - [x] Ehrenamt in Deutschland 德国志愿服务（Konzessivsätze: obwohl / trotzdem）
-- [ ] Vereinsleben in Deutschland 德国社团文化（Funktionsverbgefüge 功能动词结构）
+- [x] Vereinsleben in Deutschland 德国社团文化（Funktionsverbgefüge 功能动词结构）
 - [ ] Mülltrennung vs. Mülltourismus im Urlaub 度假时的垃圾分类困惑（Indefinitpronomen: man / jemand / niemand）
 - [ ] Die deutsche Kaffeekultur 德国咖啡文化（Temporalsätze: bevor / nachdem / während）
 - [ ] Nachbarschaftshilfe 邻里互助（Reflexive Verben 反身动词）
