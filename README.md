@@ -58,6 +58,7 @@
 | 18 | 2026-06-21 | Haushaltsplanung und Sparen 家庭预算与储蓄 | Genitivattribute 第二格定语 | ✅ |
 | 19 | 2026-06-22 | Ehrenamt in Deutschland 德国志愿服务 | Konzessivsätze: obwohl / trotzdem | ✅ |
 | 20 | 2026-06-23 | Vereinsleben in Deutschland 德国社团文化 | Funktionsverbgefüge 功能动词结构 | ✅ |
+| 21 | 2026-06-24 | Mülltourismus im Urlaub 度假时的垃圾分类困惑 | Indefinitpronomen: man / jemand / niemand 不定代词 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -79,8 +80,12 @@
 - [x] Haushaltsplanung und Sparen 家庭预算与储蓄（Genitivattribute 第二格定语）
 - [x] Ehrenamt in Deutschland 德国志愿服务（Konzessivsätze: obwohl / trotzdem）
 - [x] Vereinsleben in Deutschland 德国社团文化（Funktionsverbgefüge 功能动词结构）
-- [ ] Mülltrennung vs. Mülltourismus im Urlaub 度假时的垃圾分类困惑（Indefinitpronomen: man / jemand / niemand）
+- [x] Mülltrennung vs. Mülltourismus im Urlaub 度假时的垃圾分类困惑（Indefinitpronomen: man / jemand / niemand）
 - [ ] Die deutsche Kaffeekultur 德国咖啡文化（Temporalsätze: bevor / nachdem / während）
 - [ ] Nachbarschaftshilfe 邻里互助（Reflexive Verben 反身动词）
+- [ ] Das Duzen und Siezen 德语"你/您"文化（Modalpartikeln: eigentlich / doch / mal 情态小词）
+- [ ] Deutsches Frühstück 德式早餐文化（Komposita 复合名词）
+- [ ] Reisen mit dem Interrail-Pass 欧洲铁路通票旅行（Infinitivkonstruktionen: zu + Infinitiv 不定式结构）
+- [ ] Wetter und Klima in Deutschland 德国的天气与气候（Temporalsätze: wenn / als / sobald 时间从句）
 
 > 想加题目随时说，我会补进这张表。
