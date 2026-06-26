@@ -60,6 +60,7 @@
 | 20 | 2026-06-23 | Vereinsleben in Deutschland 德国社团文化 | Funktionsverbgefüge 功能动词结构 | ✅ |
 | 21 | 2026-06-24 | Mülltourismus im Urlaub 度假时的垃圾分类困惑 | Indefinitpronomen: man / jemand / niemand 不定代词 | ✅ |
 | 22 | 2026-06-25 | Die deutsche Kaffeekultur 德国咖啡文化 | Temporalsätze: bevor / nachdem / während 时间从句 | ✅ |
+| 23 | 2026-06-26 | Nachbarschaftshilfe 邻里互助 | Reflexive Verben 反身动词 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -83,7 +84,7 @@
 - [x] Vereinsleben in Deutschland 德国社团文化（Funktionsverbgefüge 功能动词结构）
 - [x] Mülltrennung vs. Mülltourismus im Urlaub 度假时的垃圾分类困惑（Indefinitpronomen: man / jemand / niemand）
 - [x] Die deutsche Kaffeekultur 德国咖啡文化（Temporalsätze: bevor / nachdem / während）
-- [ ] Nachbarschaftshilfe 邻里互助（Reflexive Verben 反身动词）
+- [x] Nachbarschaftshilfe 邻里互助（Reflexive Verben 反身动词）
 - [ ] Das Duzen und Siezen 德语"你/您"文化（Modalpartikeln: eigentlich / doch / mal 情态小词）
 - [ ] Deutsches Frühstück 德式早餐文化（Komposita 复合名词）
 - [ ] Reisen mit dem Interrail-Pass 欧洲铁路通票旅行（Infinitivkonstruktionen: zu + Infinitiv 不定式结构）
