@@ -63,6 +63,7 @@
 | 23 | 2026-06-26 | Nachbarschaftshilfe 邻里互助 | Reflexive Verben 反身动词 | ✅ |
 | 24 | 2026-06-27 | Das Duzen und Siezen 德语"你/您"文化 | Modalpartikeln: eigentlich / doch / mal 情态小词 | ✅ |
 | 25 | 2026-06-28 | Deutsches Frühstück 德式早餐文化 | Komposita 复合名词 | ✅ |
+| 26 | 2026-06-29 | Reisen mit dem Interrail-Pass 欧洲铁路通票旅行 | Infinitivkonstruktionen: zu + Infinitiv 不定式结构 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -89,7 +90,7 @@
 - [x] Nachbarschaftshilfe 邻里互助（Reflexive Verben 反身动词）
 - [x] Das Duzen und Siezen 德语"你/您"文化（Modalpartikeln: eigentlich / doch / mal 情态小词）
 - [x] Deutsches Frühstück 德式早餐文化（Komposita 复合名词）
-- [ ] Reisen mit dem Interrail-Pass 欧洲铁路通票旅行（Infinitivkonstruktionen: zu + Infinitiv 不定式结构）
+- [x] Reisen mit dem Interrail-Pass 欧洲铁路通票旅行（Infinitivkonstruktionen: zu + Infinitiv 不定式结构）
 - [ ] Wetter und Klima in Deutschland 德国的天气与气候（Temporalsätze: wenn / als / sobald 时间从句）
 - [ ] Berliner Mauer und Wiedervereinigung 柏林墙与德国统一（Plusquamperfekt 过去完成时）
 - [ ] Sport und Fitness in Deutschland 德国体育与健身文化（Adjektivdeklination im Komparativ 比较级形容词变格）
