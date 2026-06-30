@@ -64,6 +64,7 @@
 | 24 | 2026-06-27 | Das Duzen und Siezen 德语"你/您"文化 | Modalpartikeln: eigentlich / doch / mal 情态小词 | ✅ |
 | 25 | 2026-06-28 | Deutsches Frühstück 德式早餐文化 | Komposita 复合名词 | ✅ |
 | 26 | 2026-06-29 | Reisen mit dem Interrail-Pass 欧洲铁路通票旅行 | Infinitivkonstruktionen: zu + Infinitiv 不定式结构 | ✅ |
+| 27 | 2026-06-30 | Wetter und Klima in Deutschland 德国的天气与气候 | Temporalsätze: wenn / als / sobald 时间从句 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -91,10 +92,14 @@
 - [x] Das Duzen und Siezen 德语"你/您"文化（Modalpartikeln: eigentlich / doch / mal 情态小词）
 - [x] Deutsches Frühstück 德式早餐文化（Komposita 复合名词）
 - [x] Reisen mit dem Interrail-Pass 欧洲铁路通票旅行（Infinitivkonstruktionen: zu + Infinitiv 不定式结构）
-- [ ] Wetter und Klima in Deutschland 德国的天气与气候（Temporalsätze: wenn / als / sobald 时间从句）
+- [x] Wetter und Klima in Deutschland 德国的天气与气候（Temporalsätze: wenn / als / sobald 时间从句）
 - [ ] Berliner Mauer und Wiedervereinigung 柏林墙与德国统一（Plusquamperfekt 过去完成时）
 - [ ] Sport und Fitness in Deutschland 德国体育与健身文化（Adjektivdeklination im Komparativ 比较级形容词变格）
 - [ ] Deutsche Feiertage und Traditionen 德国节日与传统（Passiv: Vorgangs- vs. Zustandspassiv 动作被动与状态被动）
 - [ ] Wohnen in Deutschland – Mieten oder Kaufen? 在德国居住——租房还是买房？（Konditionalsätze: wenn / falls 条件从句）
+- [ ] Karneval und Fasching in Deutschland 德国狂欢节文化（Imperativsätze 祈使句）
+- [ ] Das deutsche Gesundheitssystem 德国医疗保健体系（Konjunktiv I in der indirekten Rede 间接引语虚拟式一）
+- [ ] Flohmärkte und Second-Hand-Kultur 跳蚤市场与二手文化（Demonstrativpronomen: dieser / jener / derjenige 指示代词）
+- [ ] Die deutsche Sprache und ihre Dialekte 德语方言面面观（Komparativsätze: je … desto 比较从句）
 
 > 想加题目随时说，我会补进这张表。
