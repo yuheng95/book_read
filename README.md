@@ -66,6 +66,7 @@
 | 26 | 2026-06-29 | Reisen mit dem Interrail-Pass 欧洲铁路通票旅行 | Infinitivkonstruktionen: zu + Infinitiv 不定式结构 | ✅ |
 | 27 | 2026-06-30 | Wetter und Klima in Deutschland 德国的天气与气候 | Temporalsätze: wenn / als / sobald 时间从句 | ✅ |
 | 28 | 2026-07-01 | Berliner Mauer und Wiedervereinigung 柏林墙与德国统一 | Plusquamperfekt 过去完成时 | ✅ |
+| 29 | 2026-07-02 | Sport und Fitness in Deutschland 德国体育与健身文化 | Adjektivdeklination im Komparativ 比较级形容词变格 | ✅ |
 
 ## 话题储备（取材自 Slow German 选题方向）
 - [x] Beim Bäcker bestellen 在面包店点单（Höflichkeit / Konjunktiv II）
@@ -95,7 +96,7 @@
 - [x] Reisen mit dem Interrail-Pass 欧洲铁路通票旅行（Infinitivkonstruktionen: zu + Infinitiv 不定式结构）
 - [x] Wetter und Klima in Deutschland 德国的天气与气候（Temporalsätze: wenn / als / sobald 时间从句）
 - [x] Berliner Mauer und Wiedervereinigung 柏林墙与德国统一（Plusquamperfekt 过去完成时）
-- [ ] Sport und Fitness in Deutschland 德国体育与健身文化（Adjektivdeklination im Komparativ 比较级形容词变格）
+- [x] Sport und Fitness in Deutschland 德国体育与健身文化（Adjektivdeklination im Komparativ 比较级形容词变格）
 - [ ] Deutsche Feiertage und Traditionen 德国节日与传统（Passiv: Vorgangs- vs. Zustandspassiv 动作被动与状态被动）
 - [ ] Wohnen in Deutschland – Mieten oder Kaufen? 在德国居住——租房还是买房？（Konditionalsätze: wenn / falls 条件从句）
 - [ ] Karneval und Fasching in Deutschland 德国狂欢节文化（Imperativsätze 祈使句）
